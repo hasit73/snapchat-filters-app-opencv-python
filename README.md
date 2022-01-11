@@ -45,8 +45,12 @@
 - output:1 
 ![black-glasses](https://user-images.githubusercontent.com/69752829/148889290-ced2de77-0798-4558-bbba-94a061d3dd0d.PNG)
 
+
+
 - output:2
 ![black-frame-glasses](https://user-images.githubusercontent.com/69752829/148889362-f1fca637-5cee-4301-9914-c4eabd978bd2.PNG)
+
+
 
 - output:3
 ![modi](https://user-images.githubusercontent.com/69752829/148889394-eea91c36-b520-422d-843c-f891153477f6.PNG)
